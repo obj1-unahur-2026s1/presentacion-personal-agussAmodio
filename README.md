@@ -1,7 +1,6 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
 # Programación con objetos I
-## Presentación Personal
 
 # Hola, soy Agustín Amodio 👋
 
