@@ -19,14 +19,7 @@ Actualmente me encuentro cursando el **primer año de la Tecnicatura en Programa
 En este cuatrimestre, mi foco está puesto en dominar conceptos fundamentales de la computación:
 * **Programación con Objetos I:** Profundizando en el diseño de sistemas escalables y el uso de paradigmas modernos.
 * **Estructura de Datos:** Entendiendo la eficiencia y la organización de la información detrás del código.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-* **Lenguajes & Paradigmas:** Experiencia previa en Backend y aprendizaje actual en Programación Orientada a Objetos (Wollok/Java).
-* **Control de Versiones:** Uso de **Git y GitHub** para la gestión de proyectos. 
-    > *Dato curioso: Al retomar la carrera, revisé mis repositorios antiguos de Coderhouse. Ver mi código de hace un tiempo me sirvió para notar cuánto he evolucionado en términos de organización y buenas prácticas.*
-
+  
 ---
 
 ### 🎯 Objetivos
